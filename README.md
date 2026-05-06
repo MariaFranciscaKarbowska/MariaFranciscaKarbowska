@@ -28,6 +28,10 @@ My passion lies in blurring the lines between websites, games, and videos.
 * **CMS:** Experienced with **WordPress** and various CMS platforms.
 * **Infrastructure:** Trained in networking with **Cisco Packet Tracer**.
 
+
+
+
+  
 </pre>
 
 ### Visual Tech Stack
