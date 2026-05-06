@@ -44,8 +44,8 @@ My passion lies in blurring the lines between websites, games, and videos.
 </p>
 
 ---
-### GitHub Stats (To wygląda mega profesjonalnie!)
-![MariaFranciscaKarbowska GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojaNazwaUzytkownika&show_icons=true&theme=radical)
+### GitHub Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaFranciscaKarbowska&show_icons=true&theme=radical)
 
 ---
 
