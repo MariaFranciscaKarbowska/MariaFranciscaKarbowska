@@ -1,7 +1,7 @@
 # Hi there, I'm Maria Francisca Karbowska 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Creative%20Developer&fontSize=70" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=IT+Engineering+Student+%7C+2nd+Year;Creative+Frontend+Wizard;DTP+%26+Graphic+Design+Specialist;Mastering+C%2B%2B%2C+JS+%26+Game+Engines" alt="Typing SVG" />
 </p>
 
 ##  Frontend Wizard |  IT Engineering Student |  Computer Graphic Artist
