@@ -19,7 +19,8 @@ My passion lies in blurring the lines between websites, games, and videos.
 * **HuBantu Project:** Currently building a creative agency website inspired by Art, Music, and Architecture.
 
 ###  Graphics & Visual Design
-* **Professional Experience:** Currently working in Computer Graphics, specializing in layout design and pre-press preparation (DTP). This role has sharpened my eye for detail, composition, and color accuracy.
+* **Professional Experience:** Currently working in Computer Graphics, specializing in layout design and pre-press preparation (DTP). 
+    This role has sharpened my eye for detail, composition, and color accuracy.
 * **Tools:** Expert in preparing assets for high-quality printing and digital use.
 * **3D Design:** Modeling in **3dsMax**, with experience in **Unity** and **Unreal Engine**.
 * 
@@ -29,9 +30,6 @@ My passion lies in blurring the lines between websites, games, and videos.
 * **Infrastructure:** Trained in networking with **Cisco Packet Tracer**.
 
 
-
-
-  
 </pre>
 
 ### Visual Tech Stack
