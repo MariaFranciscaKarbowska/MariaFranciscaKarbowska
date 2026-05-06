@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=IT+Engineering+Student+%7C+2nd+Year;Creative+Frontend+Wizard;DTP+%26+Graphic+Design+Specialist;Mastering+C%2B%2B%2C+JS+%26+Game+Engines" alt="Typing SVG" />
 </p>
 
-
+<pre>
 I am a multidimensional developer focusing on creating immersive, art-focused web experiences. As an IT Engineering student, I believe that code is a digital canvas, where logical architecture (C++) meets unique visual storytelling.
 
 ---
@@ -28,6 +28,8 @@ My passion lies in blurring the lines between websites, games, and videos.
 * **CMS:** Experienced with **WordPress** and various CMS platforms.
 * **Infrastructure:** Trained in networking with **Cisco Packet Tracer**.
 
+</pre>
+
 ### Visual Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,10 +47,6 @@ My passion lies in blurring the lines between websites, games, and videos.
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### Combat Power / GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFranciscaKarbowska&layout=compact&theme=vision-glow&hide_border=true" />
-</p>
 ---
 
 ### Let's build a digital experience!
