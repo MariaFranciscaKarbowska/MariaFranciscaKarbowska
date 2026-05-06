@@ -1,6 +1,8 @@
 # Hi there, I'm Maria Francisca Karbowska 👋
 
-![Creative Coding Banner](https://i.ibb.co/VDPG6rM/coder-banner.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Creative%20Developer&fontSize=70" width="100%" />
+</p>
 
 ##  Frontend Wizard |  IT Engineering Student |  Computer Graphic Artist
 
