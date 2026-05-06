@@ -8,7 +8,8 @@
 </p>
 
 <pre>
-I am a multidimensional developer focusing on creating immersive, art-focused web experiences. As an IT Engineering student, I believe that code is a digital canvas, where logical architecture (C++) meets unique visual storytelling.
+I am a multidimensional developer focusing on creating immersive, art-focused web experiences. As an IT Engineering student, 
+I believe that code is a digital canvas, where logical architecture (C++) meets unique visual storytelling.
 
 ---
 
