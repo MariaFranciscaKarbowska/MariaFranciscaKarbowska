@@ -7,7 +7,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=IT+Engineering+Student+%7C+2nd+Year;Creative+Frontend+Wizard;DTP+%26+Graphic+Design+Specialist;Mastering+C%2B%2B%2C+JS+%26+Game+Engines" alt="Typing SVG" />
 </p>
 
-##  Frontend Wizard |  IT Engineering Student |  Computer Graphic Artist
+```cpp
+/**
+ * @file Maria_Profile.cpp
+ * @brief Multidisciplinary IT Engineering Student & Graphic Artist
+ */
+
+struct Developer {
+    string status    = "2nd Year IT Engineering Student";
+    string work      = "Computer Graphics & DTP Specialist";
+    string location  = "Italy / Poland";
+    bool creative    = true;
+    
+    vector<string> passion = { "Artistic Web Design", "Game Dev", "Electronics" };
+};
 
 I am a multidimensional developer focusing on creating immersive, art-focused web experiences. As an IT Engineering student, I believe that code is a digital canvas, where logical architecture (C++) meets unique visual storytelling.
 
