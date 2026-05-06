@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Maria+Francisca;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Maria+Francisca+Karbowska;" />
 </p>
-# Hi there, I'm Maria Francisca Karbowska 👋
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=IT+Engineering+Student+%7C+2nd+Year;Creative+Frontend+Wizard;DTP+%26+Graphic+Design+Specialist;Mastering+C%2B%2B%2C+JS+%26+Game+Engines" alt="Typing SVG" />
