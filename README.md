@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Maria+Francisca;" />
+</p>
 # Hi there, I'm Maria Francisca Karbowska 👋
 
 <p align="center">
@@ -43,9 +46,6 @@ My passion lies in blurring the lines between websites, games, and videos.
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
----
-### GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaFranciscaKarbowska&show_icons=true&theme=radical)
 
 ---
 
