@@ -26,6 +26,15 @@ My passion lies in blurring the lines between websites, games, and videos.
 * **CMS:** Experienced with **WordPress** and various CMS platforms.
 * **Infrastructure:** Trained in networking with **Cisco Packet Tracer**.
 
+### 🛠 Visual Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/3dsMax-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 ---
 
 ###  Tech Stack at a glance
